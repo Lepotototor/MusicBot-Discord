@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd 'Path to the src bot directory'
+source ./.env/bin/activate
+python main.py
